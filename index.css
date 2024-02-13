@@ -56,6 +56,7 @@
   background-color: rgb(59, 16, 161);
   padding: 40px 20px 20px;
 }
+/* using units of in */
 .circle {
   position: absolute;
   top: 2in;
@@ -65,6 +66,7 @@
   background-color: #944f4f;
   border-radius: 50%;
 }
+/* using units of em */
 .triangle-left {
   position: absolute;
   top: 2em;
