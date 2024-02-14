@@ -57,6 +57,11 @@
   padding: 40px 20px 20px;
 }
 /* using units of in */
+.fa-person{
+  position: relative;
+  font-size: 60px;
+  color:black;
+}
 .circle {
   position: absolute;
   top: 2in;
