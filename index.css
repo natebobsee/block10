@@ -61,21 +61,22 @@
   position: absolute;
   top: 2in;
   left: 1in;
-  height: 50px;
-  width: 300px;
+  height: 100px;
+  width: 100px;
   background-color: #944f4f;
   border-radius: 50%;
 }
 /* using units of em */
-.triangle-left {
+.triangle-up {
   position: absolute;
-  top: 2em;
-  left: 2em;
+  top: 25em;
+  left: 30em;
+  z-index: 6;
 	width: 0;
 	height: 0;
-	border-top: 25px solid transparent;
-	border-right: 50px solid #b70f0f;
-	border-bottom: 25px solid transparent;
+	border-left: 100px solid transparent;
+	border-right: 100px solid transparent;
+	border-bottom: 200px solid #555;
 }
 
 div#a{
